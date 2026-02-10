@@ -2,7 +2,7 @@
 <item>
     <version>3.0.6</version>
     <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/3.0.6/Install.exe</url>
-    <changelog>3.0.6 - Видно теперь линни во вкладке паллеты. Добавит контексное меню с быстрым поиском номера К и П.</changelog>
+    <changelog>3.0.6 - Видно теперь линни во вкладке паллеты. Добавит контекстное меню с быстрым поиском номера К и П.</changelog>
     <mandatory>false</mandatory>
 </item>
 
