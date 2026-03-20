@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.0.9</version>
-    <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/3.0.9/Install.exe</url>
-    <changelog>3.0.9 - к версии сервера 3.4.5 и клиента 3.3.3</changelog>
+    <version>3.1.1</version>
+    <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/3.1.1/Install.exe</url>
+    <changelog>3.1.1 - к версии сервера 3.4.5 и клиента 3.3.3</changelog>
     <mandatory>false</mandatory>
 </item>
 
