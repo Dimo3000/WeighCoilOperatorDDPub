@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.3.6</version>
-    <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/3.3.6/Install.exe</url>
-    <changelog>3.3.6 - наведение порядка в коде </changelog>
+    <version>3.3.7</version>
+    <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/3.3.7/Install.exe</url>
+    <changelog>3.3.7 - Заказы </changelog>
     <mandatory>false</mandatory>
 </item>
 
