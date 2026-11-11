@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>4.0.6</version>
-    <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/4.0.6/Install.exe</url>
-    <changelog>4.0.6 - Рассчет катушек и паллет. Улучшены заказы</changelog>
+    <version>4.0.7</version>
+    <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/4.0.7/Install.exe</url>
+    <changelog>4.0.7 - Исправление формы заказов</changelog>
     <mandatory>false</mandatory>
 </item>
 
