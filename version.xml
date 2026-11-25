@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>4.2.8</version>
-    <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/4.2.8/Install.exe</url>
-    <changelog>4.2.8 - доработана форма сегодня, автоотбор даты заказа, печать заказа с полями и под размер</changelog>
+    <version>4.2.9</version>
+    <url>https://github.com/Dimo3000/WeighCoilOperatorDDPub/releases/download/4.2.9/Install.exe</url>
+    <changelog>4.2.9 - исправил баг с очередями</changelog>
     <mandatory>false</mandatory>
 </item>
 
